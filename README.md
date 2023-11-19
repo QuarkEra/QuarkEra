@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QuarkEra
-- 🌱 Gameplay Programmer bringing moments of immersion and interactivity to Unreal Engine 5 projects in C++.
-- 👀 I’m interested in Software Development. After being bitten by the bug while learning C# for those auto splitter scripts, I found I missed all the planning and prototyping. After achieving my BSc in mathematics & physics in my spare time (7 years alongside a full-time night shift), I spend my spare time learning programming more diligently.
+- 🌱 To recreating the AI of Alien: Isolation in a PSX style fpp horror today in C++ from a GameJam submission in six months that had the bare minimum of gameplay.
+- 👀 Published Big N Lil Bunnies for the GDTV GameJam 2023, my first thing
 
 <!---
 QuarkEra/QuarkEra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
